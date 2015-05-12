@@ -1,8 +1,11 @@
-﻿.wrap {
-    width:960px;
-    margin:auto;
+﻿footer{
+    text-align:center;
 }
 
-footer {
-    text-align: center;
+.logo{
+    width:500px;
+    height:230px;
+    display:block;
+    text-indent:-999px;
+    background:url(./img/logo.jpg) no-repeat center center;
 }
