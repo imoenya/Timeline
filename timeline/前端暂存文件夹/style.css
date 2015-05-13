@@ -9,3 +9,8 @@
     text-indent:-999px;
     background:url(./img/logo.jpg) no-repeat center center;
 }
+
+.wrap .row{
+    margin-left:0px;
+    margin-right:0px;
+}
